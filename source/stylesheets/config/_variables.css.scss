@@ -18,6 +18,8 @@ $header-font: "Raleway", "Helvetica", "sans-serif";
 
 // Font-size and line-height
 $base-size: 16px;
+$p-big: 25px;
+$h1-big: 50px;
 $base-height: 1.4;
 
 /* -------------------------------------
@@ -30,7 +32,9 @@ $red: #EE5F5B;
 $blue: #469AE0;
 $yellow: #FDB631;
 $orange: #E67E22;
-$green: #32B796;
+$orange-light: #ff5a5f;
+//$green: #32B796;
+$green: #5fcf80;
 
 // Gray scale
 $gray-darker:  lighten(#000, 13.5%); // #222
